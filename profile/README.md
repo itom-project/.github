@@ -1,6 +1,9 @@
 # itom #
 
 [![Generic badge](https://img.shields.io/badge/powered%20by-ITO-blue)](https://www.ito.uni-stuttgart.de/)
+[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
+[![made-with-opencv](https://img.shields.io/badge/made%20with-OpenCV-green)](https://opencv.org/)
+[![made-with-qt](https://img.shields.io/badge/made%20with-Qt-brightgreen)](https://www.qt.io/product/framework)
 
 welcome to the open source software ``itom``. It allows operating measurement systems with multiple hardware components, like cameras, AD-converters, actuators, motor stages as well as handling your lab automation. The graphical user interface provides a quick and easy access to all components, complex measurement tasks and algorithms can be scripted using the embedded python scripting language and self-defined user interfaces finally provide a possibility to adapt ``itom`` to your special needs. External hardware or algorithms are added to ``itom`` by an integrated plugin system.
 
