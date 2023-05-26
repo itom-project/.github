@@ -4,6 +4,9 @@ welcome to the open source software **itom**. It allows operating measurement sy
 
 In order to learn more about **itom**, see the official homepage [itom-project.github.io](https://itom-project.github.io/) or read the [user documentation](https://itom-project.github.io/latest/docs/index.html)
 
+![image](https://github.com/itom-project/.github/assets/17592823/edf181c9-d8d3-4982-8010-f27cc72a24cf)
+
+
 ### What is this repository for? ###
 
 * This repository contains the free source code of the core application of **itom** that currently compiles on Windows and Linux.
