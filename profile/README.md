@@ -25,7 +25,7 @@ In order to learn more about ``itom``, see the official homepage [itom-project.g
 * In order to get itom either download the ready-to-use setups for Windows 32bit and 64bit. Use the all-in-one installer in order to get itom including Python and some important Python packages or use the simple installer if you already have an appropriate version of Python installed on your computer.
 * Clone the central repositoy [itomProject](https://github.com/itom-project/itomProject) with the **--recursive** Option.
   ```
-  git clone --recursive git@github.com:itom-project/itomProject.git
+  git clone --recursive --remote git@github.com:itom-project/itomProject.git
   ```  
   This will donwload the submodule repositories [itom](https://github.com/itom-project/designerPlugins) core, plugins [plugins](https://github.com/itom-project/plugins) and [designer plugins](https://github.com/itom-project/designerPlugins). For more information see the corresponding [section](https://itom-project.github.io/latest/docs/02_installation/build_dependencies.html) in the user documentation.
 * ``itom`` is written in C++ and requires the Qt framework in version 4.8 or higher (also 5.x and 6.x). It is further dependent on OpenCV, the Point Cloud Library (optional), the source code editor QScintilla and Python 3.6 or higher including its important package Numpy.
