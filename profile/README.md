@@ -15,10 +15,10 @@ In order to learn more about [``itom``](https://itom-project.github.io/ "``itom`
 
 ## What is this project for?
 
-* This project contains the repositories for the source code of [``itom``](https://itom-project.github.io), which consists of 3 repositories.
-	* [itom](https://github.com/itom-project/itom) core application
-	* [plugins](https://github.com/itom-project/plugins) hardware/software plugins
-	* [designer plugins](https://github.com/itom-project/designerPlugins) widget plugins
+This project contains the repositories for the source code of [``itom``](https://itom-project.github.io), which consists of 3 repositories.
+* [itom](https://github.com/itom-project/itom) core application
+* [plugins](https://github.com/itom-project/plugins) hardware/software plugins
+* [designer plugins](https://github.com/itom-project/designerPlugins) widget plugins
 
 ## How do I get set up?
 
@@ -44,6 +44,14 @@ It's usually a good idea to run the hooks against all of the files when adding n
 ```bash
 python -m pre_commit run --all-files
 ```
+
+# Licensing
+The core components and the main application of itom are covered by the [GNU Library General Public Licence (GNU LGPL)](https://github.com/itom-project/itom/blob/master/COPYING.txt "GNU Library General Public Licence (GNU LGPL)"). All components belonging to the SDK of [``itom``](https://itom-project.github.io/ "``itom``") (e.g. dataObject, pointCloud, addInInterface,…) are additionally covered by an [``itom``](https://itom-project.github.io/ "``itom``") exception. The main idea of this exception is to allow other libraries (e.g. plugins) to include and link agains components of itom SDK independent on the specific license model of the respective "other" library. All files belonging to the itom SDK are included in the folder SDK that is shipped with any setup or included in the build directory (when build from sources).
+
+## itom Exception
+The full text license of LGPL and itom [exception](https://github.com/itom-project/itom/blob/master/LGPL_EXCEPTION.txt "exception") is also included as file [COPYING](https://github.com/itom-project/itom/blob/master/COPYING.txt "COPYING") in the source distributions and setups.
+
+All plugins and designer-plugins that can be integrated into itom can have their own licensing. Therefore the user is referred to the specific licensing documents or statements of each external library (plugin).
 
 # Contact
 
