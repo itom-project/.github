@@ -32,7 +32,7 @@ This will download the submodule repositories [itom](https://github.com/itom-pro
 
 ## Contribution
 
-You are welcome to use and test [``itom``](https://itom-project.github.io/ "``itom``"). If you want to you are invited to participate in the development of [``itom``](https://itom-project.github.io/ "``itom``") or some of its plugins. If you found any bug, feel free to post an [issue](https://github.com/itom-project/itom/issues "issue").
+You are welcome to use and test [``itom``](https://itom-project.github.io/ "``itom``"). If you want to you are invited to participate in the development of [``itom``](https://itom-project.github.io/ "``itom``") or some of its plugins. If you found any bug, feel free to post an [itom core issue](https://github.com/itom-project/itom/issues "issue"), [plugin issue](https://github.com/itom-project/plugins/issues "plugins issue") or [desinger plugin issue](https://github.com/itom-project/designerPlugins "desinger plugin issue").
 
 ### pre-commit hooks
 After the first cloning of the repositories, the [pre-commit](https://pre-commit.com/ "pre-commit") hooks should be installed once.
