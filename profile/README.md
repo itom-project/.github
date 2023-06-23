@@ -8,7 +8,6 @@
 [![made-with-qt](https://img.shields.io/badge/Made%20by-Qt-brightgreen)](https://www.qt.io/product/framework)
 
 ![Python](https://img.shields.io/badge/python-v3.6+-blue.svg)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 Welcome to the open source software [``itom``](https://itom-project.github.io/ "``itom``"). In addition to a [Python](https://www.python.org/ "Python") IDE, it enables the operation of **measurement systems** with multiple **hardware components**, such as cameras, AD converters, actuators, motor stages, and the management of your laboratory automation. The **graphical user interface provides** a quick and easy access to all components, complex measurement tasks and algorithms can be scripted using the embedded python scripting language and self-defined user interfaces finally provide a possibility to adapt [``itom``](https://itom-project.github.io/ "``itom``")to your special needs. External hardware or algorithms are added to [``itom``](https://itom-project.github.io/ "``itom``") by an integrated plugin system.
 
