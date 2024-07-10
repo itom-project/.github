@@ -29,6 +29,8 @@ This project contains the repositories for the source code of [``itom``](https:/
 * Clone the central repositoy [itomProject](https://github.com/itom-project/itomProject) with the **--recursive** Option.
 ```bash
 git clone --recursive --remote git@github.com:itom-project/itomProject.git
+cd itomProject
+git submodule foreach --recursive git checkout master
 ```
 This will download the submodule repositories [itom](https://github.com/itom-project/itom) core, plugins [plugins](https://github.com/itom-project/plugins) and [designer plugins](https://github.com/itom-project/designerPlugins). For more information see the corresponding [section](https://itom-project.github.io/latest/docs/02_installation/build_dependencies.html) in the user documentation.
 * [``itom``](https://itom-project.github.io/ "``itom``") is written in C++ and requires the Qt framework in version >5.6 (Qt6 is supported for version > 6.2). It is further dependent on OpenCV, the Point Cloud Library (optional) and Python 3.6 or higher including its important package [Numpy](https://numpy.org/doc/stable/index.html "Numpy").
