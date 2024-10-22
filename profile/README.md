@@ -20,15 +20,15 @@ In order to learn more about [``itom``](https://itom-project.github.io/ "``itom`
 
 Counted on 21 Okt. 2024.
 
-| File Extension | Language         | itom core | plugins | designer plugins |  total |
+| File extension | Language         | itom core | plugins | designer plugins |  total |
 |----------------|------------------|-----------|---------|------------------|--------|
-| .py            | Python           |     67689 |    7401 |              104 |  75194 |
 | .cpp           | C++              |    258562 |  226804 |           124190 | 609556 |
 | .h             | C++              |     80195 |  114216 |            29128 | 223539 |
 | .c             | C                |      5093 |  222175 |                0 | 227268 |
+| .py            | Python           |     67689 |    7401 |              104 |  75194 |
 | .cmake         | CMake            |      5256 |     769 |               65 |   6090 |
 | .txt           | Text             |     12965 |   16595 |             1956 |  31516 |
-| .rst           | RestructuredText |    220435 |   11431 |              231 | 232097 |
+| .rst           | reStructuredText |    220435 |   11431 |              231 | 232097 |
 | .css           | CSS              |      2098 |       0 |                0 |   2098 |
 
 ## What is this project for?
