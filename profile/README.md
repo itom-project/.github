@@ -21,7 +21,7 @@ In order to learn more about [``itom``](https://itom-project.github.io/ "``itom`
 Counted on 21 Okt. 2024.
 
 | File extension | Language         | itom core | plugins | designer plugins |  total |
-|----------------|------------------|-----------|---------|------------------|--------|
+| :------------- | :--------------- | --------: | ------: | ---------------: | -----: |
 | .cpp           | C++              |    258562 |  226804 |           124190 | 609556 |
 | .h             | C++              |     80195 |  114216 |            29128 | 223539 |
 | .c             | C                |      5093 |  222175 |                0 | 227268 |
