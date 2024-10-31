@@ -14,7 +14,7 @@ Welcome to the open source software [``itom``](https://itom-project.github.io/ "
 
 In order to learn more about [``itom``](https://itom-project.github.io/ "``itom``"), see the official homepage [itom-project.github.io](https://itom-project.github.io/) or read the [user documentation](https://itom-project.github.io/latest/docs/index.html)
 
-![image](https://github.com/itom-project/.github/assets/17592823/edf181c9-d8d3-4982-8010-f27cc72a24cf)
+![image](https://github.com/user-attachments/assets/5d0c8f49-52d7-431e-be00-ccdb93ccf8d9)
 
 ## Lines of code
 
